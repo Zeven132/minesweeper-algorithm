@@ -1389,6 +1389,11 @@ public class MinesweeperEngine : MonoBehaviour
         
     }
 
+    public void Quit()
+    {
+        Application.Quit();
+    }
+
 
 
     // Update is called once per frame
