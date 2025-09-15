@@ -1,6 +1,7 @@
-<h1>Minesweeper Solver (README under construction)</h1>
+<h1>Minesweeper Solver</h1>
 <p>I quite like minesweeper and difficult programming challenges so I am doing my best to make an auto solver.<br>
-Sometimes when I'm bored I add to it.</p>
+Sometimes when I'm bored I add to it.
+<br><br>To download and run it, download the Minesweeper Algorithm.exe file</p>
 <h2>Current Functionality:</h2>
 
 <h3>Basic Logic</h3>
